@@ -9,3 +9,7 @@ var ventricle_right = RV;
 var atrium_left = LA;
 var atrium_right = RA;
 ```
+
+- [x] Heart anatomy
+- [ ] Blood Flow through the heart
+- [ ] Oxygenated vs. deoxygenated blood
